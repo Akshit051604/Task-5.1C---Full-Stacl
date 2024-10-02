@@ -18,7 +18,7 @@ export default class Signal extends Component {
                     <div>
                         <h1> Welcome To Task 5.1C </h1>
                     </div>
-                    <div style={{ backgroundColor: 'grey', padding: '5px' }}>
+                    <div style={{ backgroundColor: 'blue', padding: '5px' }}>
                         <h3> New Post</h3>
                     </div>
                     <Form.Field>
